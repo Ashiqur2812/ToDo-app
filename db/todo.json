@@ -1,47 +1,17 @@
 [
-  {
-    "title": "prisma",
-    "body": "learning node",
-    "createdAt": "5/18/2025, 1:45:22 AM"
-  },
-  {
-    "title": "typescript",
-    "body": "learning node",
-    "createdAt": "8/23/2025, 2:20:02 PM"
-  },
-  {
-    "title": "express",
-    "body": "learning express",
-    "createdAt": "6/1/2025, 4:32:11 PM"
-  },
-  {
-    "title": "mongoDB",
-    "body": "learning mongoDB",
-    "createdAt": "6/1/2025, 4:33:17 PM"
-  },
-  {
-    "title": "nodeJs",
-    "body": "learning nodeJs",
-    "createdAt": "6/1/2025, 8:15:51 PM"
-  },
-  {
-    "title": "nodeJs",
-    "body": "learning nodeJs",
-    "createdAt": "6/1/2025, 8:17:19 PM"
-  },
-  {
-    "title": "sql",
-    "body": "learning sql",
-    "createdAt": "6/1/2025, 8:19:01 PM"
-  },
-  {
-    "title": "sql",
-    "body": "learning sql",
-    "createdAt": "6/1/2025, 8:19:16 PM"
-  },
-  {
-    "title": "postgreSQL",
-    "body": "learning postgreSQL",
-    "createdAt": "6/1/2025, 8:26:07 PM"
-  }
+    {
+        "title": "prisma",
+        "body": "Learning advanced prisma",
+        "createdAt": "5/18/2025, 1:45:22 AM"
+    },
+    {
+        "title": "express",
+        "body": "Learning super express",
+        "createdAt": "6/1/2025, 4:32:11 PM"
+    },
+    {
+        "title": "mongoDB",
+        "body": "Learning intermediate mongoDB",
+        "createdAt": "6/1/2025, 4:33:17 PM"
+    }
 ]
